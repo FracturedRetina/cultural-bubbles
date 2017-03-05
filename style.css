@@ -1,17 +1,21 @@
 #content {
-	
+
 }
 
 .bubble {
-
+	width: 200px;
 }
 
 .bubble > .title {
 
 }
 
-.bubble > img {
-	
+.bubble > .img {
+	width: 200px;
+	height: 200px;
+	background: 50% 50% no-repeat;
+	border-radius: 50%;
+	background-size: cover;
 }
 
 .bubble > .description {

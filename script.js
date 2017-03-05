@@ -6,7 +6,6 @@ $(document).ready(function() {
 	});
 });
 
-var bubbleId;
 function renderBubble(b) {
-	$("<div class=\"bubble\"><img src=\"" + b.img + "\" /><h" + b.size + ">" + b.title.en + "</h" + b.size + "></div>").appendTo("#content");
+	$("<div class=\"bubble\"><div style=\"background-image: url(" + b.img + ")\" /><h" + b.size + ">" + b.title.en + "</h" + b.size + "><p>" + b.description.en + "</p></div>").appendTo("#content");
 }
