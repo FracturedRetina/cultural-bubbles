@@ -1,14 +1,9 @@
 $(document).ready(function() {
-	var json;
-	
-	
-	$.getJSON("bubbles.json", function(e) {
-		json = e;
+	$.getJSON("bubbles.json", function(json) {
+		for (var i = 0; i < json.bubbles.length; i++) {
+			renderBubble(json.bubbles[i]);
+		}
 	});
-	
-	for (var i = 0; i < json.bubbles.length; i++) {
-		renderBubble(json.bubbles[i]);
-	}
 });
 
 var bubbleId;
