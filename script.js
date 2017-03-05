@@ -8,10 +8,5 @@ $(document).ready(function() {
 
 var bubbleId;
 function renderBubble(b) {
-	var str = "<div class=\"bubble\"></div>";
-
-	$(str).append("<img src=\"" + b.img + "\" />");
-	$(str).append("<h" + b.size + ">" + b.title.en + "</h" + b.size + ">");
-
-	$(document).append(str);
+	$("body").append("<div class=\"bubble\"><img src=\"" + b.img + "\" /><h" + b.size + ">" + b.title.en + "</h" + b.size + "></div>");
 }
