@@ -1,10 +1,11 @@
-
-$.getJSON("bubbles.json", function(e) {
-	console.log(e);
-});
-
 $(document).ready(function() {
-
+	var json;
+	
+	
+	$.getJSON("bubbles.json", function(e) {
+		json = e;
+	});
+	
 	for (var i = 0; i < json.bubbles.length; i++) {
 		renderBubble(json.bubbles[i]);
 	}
