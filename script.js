@@ -13,7 +13,7 @@ $(document).ready(function() {
 });
 
 function renderBubble(b) {
-	$("<div class=\"bubble\"><div class=\"img\" style=\"background-image: url(" + b.img + ")\"></div><h" + b.size + " class=\"title\">" + b.title[lang] + "</h" + b.size + "><p>" + b.description[lang] + "</p></div>").appendTo("#content");
+	$("<div class=\"bubble\"><div class=\"img\" style=\"background-image: url(" + b.img + ")\"></div><h" + b.size + " class=\"title\">" + b.title[lang] + "</h" + b.size + "><p class=\"description\">" + b.description[lang] + "</p></div>").appendTo("#content");
 }
 
 function getParameterByName(name) {
