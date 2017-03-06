@@ -24,3 +24,29 @@
 .bubble > .description {
 	text-align: left;
 }
+
+#background {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	opacity: 0.1;
+}
+
+#background > div {
+    width: 50%;
+    height: 100%;
+    background: 50% 50% no-repeat;
+    display: table-cell;
+    background-size: 31.4159265358979%;
+}
+
+#background > #left {
+	background-image: url("tryzub.svg");
+	float: left;
+}
+
+#background > #right {
+	background-image: url("celtic-knot.svg");
+	float: right;
+}
