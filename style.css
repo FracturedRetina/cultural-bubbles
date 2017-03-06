@@ -3,11 +3,13 @@
 }
 
 .bubble {
-	width: 200px;
+	width: 250px;
+	margin: 25px;
+	display: inline-block;
 }
 
 .bubble > .title {
-
+	text-align: center;
 }
 
 .bubble > .img {
