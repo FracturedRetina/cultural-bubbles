@@ -29,7 +29,7 @@
      inkscape:cx="372.74461"
      inkscape:cy="529.4546"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1301"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      id="layer1"
      transform="translate(0,-28.36222)"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <circle
        style="fill:#000000;fill-opacity:0.09803922;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4134"
@@ -137,19 +137,19 @@
          y="934.74207">cześć</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:74.94736481px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c000c0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-791.1524"
-       y="213.97809"
+       style="font-style:normal;font-weight:normal;font-size:72.69269562px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c000c0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-779.59613"
+       y="213.58121"
        id="text5632"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5634"
-         x="-791.1524"
-         y="213.97809">як справи</tspan></text>
+         x="-779.59613"
+         y="213.58121">як справи</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#318f31;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#318f31;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="637.14288"
        y="432.57144"
        id="text5636"
@@ -160,15 +160,15 @@
          y="432.57144">wie gehts</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:66.29747772px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="343.32596"
-       y="246.83702"
+       style="font-style:normal;font-weight:normal;font-size:54.48833847px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="161.54132"
+       y="260.72198"
        id="text5640"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5642"
-         x="343.32596"
-         y="246.83702">how are you</tspan></text>
+         x="161.54132"
+         y="260.72198">how are you</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:46.2856636px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -194,13 +194,80 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:51.65066147px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="91.639046"
-       y="307.29089"
+       x="71.639046"
+       y="310.14804"
        id="text5652"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5654"
-         x="91.639046"
-         y="307.29089">jak się masz</tspan></text>
+         x="71.639046"
+         y="310.14804">jak się masz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:54.39778137px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.26382"
+       y="834.79999"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="127.26382"
+         y="834.79999">polskie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:75.38072968px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c000c0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="416.08905"
+       y="808.02386"
+       id="text4168"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4170"
+         x="416.08905"
+         y="808.02386">український</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.29402542px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="307.63647"
+       y="447.57303"
+       id="text4172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4174"
+         x="307.63647"
+         y="447.57303">русский</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.21065903px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff8000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-600.82611"
+       y="812.58722"
+       id="text4176"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4178"
+         x="-600.82611"
+         y="812.58722">gaeilge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:88.59884644px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#318f31;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="507.62231"
+       y="251.88326"
+       id="text4180"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4182"
+         x="507.62231"
+         y="251.88326">deutsche</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40.36637497px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="245.69403"
+       y="786.09204"
+       id="text4184"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4186"
+         x="245.69403"
+         y="786.09204">english</tspan></text>
   </g>
 </svg>
