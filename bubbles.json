@@ -30,5 +30,27 @@
 				"en": "Several of my relatives have been involved in education, either through teaching or pursuing higher education."
 			}
 		}
+		{
+			"title": {
+				"en": "Christianity",
+				"es": "Critianismo"
+			},
+			"size": 2,
+			"img": "https://cdn.pixabay.com/photo/2016/06/10/04/23/crucifix-1447396_960_720.jpg",
+			"description": {
+				"en": "Both sides of my family come from countries with strong Christian backgrounds."
+			}
+		}
+		{
+			"title": {
+				"en": "Immigrant",
+				"es": "Inmigrantes"
+			},
+			"size": 2,
+			"img": "https://c1.staticflickr.com/5/4128/5018068505_eb8686c978_b.jpg",
+			"description": {
+				"en": "My father is my only ancestor born in the United States."
+			}
+		}
 	]	
 }
