@@ -8,7 +8,8 @@
 			"size": 1,
 			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Ukrainian_People%27s_Republic_%28with_coat_of_arms%29.png/640px-Flag_of_Ukrainian_People%27s_Republic_%28with_coat_of_arms%29.png",
 			"description": {
-				"en": "A country with a difficult history of struggling for independence against world powers like Russia"
+				"en": "A country with a difficult history of struggling for independence against world powers like Russia. My grandmother, her family, and my grandfather left during the World War II to escape Stalin's conquest of the country.",
+				"es": "Un país con una historia difícil de luchas de independencia contra países más grandes, especialmente rusia. Mi abuela, su familia y mi abuelo huyeron durante la segunda guerra munidal para escapar la conquista por Stalin del país."
 			}
 		},
 		{
@@ -19,7 +20,8 @@
 			"size": 1,
 			"img": "https://c1.staticflickr.com/1/97/220399586_ec18abd879_b.jpg",
 			"description": {
-				"en": "A country with a difficult history of struggling for independence against Britain, having lost its own language centuries ago."
+				"en": "An island with a difficult history of struggling for independence against Britain. Ireland also has a history of self-conflict between Cathloics and Protestants and is currently divided into two countries.",
+				"es": "Una isla con una historia difícil de luchas de independencia contra bretaña. Irlanda tambien tiene una historia de conflictos internos entre los católicos y los protestantes y ahora es dos países."
 			}
 		},
 		{
@@ -30,7 +32,8 @@
 			"size": 1,
 			"img": "http://maxpixel.freegreatpicture.com/static/photo/1x/Business-Office-Paper-Notebook-Pen-Blank-994464.jpg",
 			"description": {
-				"en": "Several of my relatives have been involved in education, either through teaching or pursuing higher education."
+				"en": "Several of my relatives have been involved in education. My grandfather was a professor at Marquette University. Three more of my fathers relatives were teachers and my mother has a master's degree.",
+				"es": "Algunos de mis parientes han estado involucrado en educación. Mi abuelo era un professor en la universidad Marquette. Tres más de los parientes de mis padre eran maetros y mi madre tiene una maestría."
 			}
 		},
 		{
@@ -41,7 +44,8 @@
 			"size": 2,
 			"img": "http://maxpixel.freegreatpicture.com/static/photo/1x/Holy-Rosary-Jesus-Christianity-Bible-Book-Cross-699609.jpg",
 			"description": {
-				"en": "Both sides of my family come from countries with strong Christian backgrounds."
+				"en": "Both sides of my family come from countries with strong Christian backgrounds.",
+				"es": "Los dos lados de mi familia son de países en que la cristianidad es muy impoertante."
 			}
 		},
 		{
@@ -52,7 +56,20 @@
 			"size": 2,
 			"img": "https://c1.staticflickr.com/5/4128/5018068505_eb8686c978_b.jpg",
 			"description": {
-				"en": "My father is my only ancestor born in the United States."
+				"en": "My father is my only ancestor born in the United States.",
+				"es": "Mi padre es mi solo antepasado que se nació en los estados unidos."
+			}
+		},
+		{
+			"title": {
+				"en": "Music",
+				"es": "Música"
+			},
+			"size": 2,
+			"img": "https://c1.staticflickr.com/1/133/382467192_4ee4dc21e2_b.jpg",
+			"description": {
+				"en": "Music has been especially important in my father's life. He's played a variety of intruments throughout his life and passed on the tradition to me when I needed to take up an extracurricular.",
+				"es": "La musica han estado especialmente importante en la vida de mi padre. Ha toca varios intrumentos durante su vida y me dijo practicar la música cuando yo necesitaba una actividad extraescolar."
 			}
 		}
 	]	
