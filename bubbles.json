@@ -21,7 +21,7 @@
 			"img": "https://c1.staticflickr.com/1/97/220399586_ec18abd879_b.jpg",
 			"description": {
 				"en": "An island with a difficult history of struggling for independence against Britain. Ireland also has a history of self-conflict between Cathloics and Protestants and is currently divided into two countries.",
-				"es": "Una isla con una historia difícil de luchas de independencia contra bretaña. Irlanda tambien tiene una historia de conflictos internos entre los católicos y los protestantes y ahora es dos países."
+				"es": "Una isla con una historia difícil de luchas de independencia contra bretaña. Irlanda también tiene una historia de conflictos internos entre los católicos y los protestantes y ahora es dos países."
 			}
 		},
 		{
@@ -70,6 +70,18 @@
 			"description": {
 				"en": "Music has been especially important in my father's life. He's played a variety of intruments throughout his life and passed on the tradition to me when I needed to take up an extracurricular.",
 				"es": "La musica han estado especialmente importante en la vida de mi padre. Ha toca varios intrumentos durante su vida y me dijo practicar la música cuando yo necesitaba una actividad extraescolar."
+			}
+		},
+		{
+			"title": {
+				"en": "Language",
+				"es": "Lenguaje"
+			},
+			"size": 2,
+			"img": "language.svg",
+			"description": {
+				"en": "My grandmother knew four languages during her escape form Europe, none of which were English. Polish saved her life once. Additionally, Irish Gaelic was a mandatory part of my mother's education. I've been learning Ukrainian to try to reconnect with my roots",
+				"es": "Mi abuela sabía cuatro idomas durante su huye de europea, pero no inglés. El polaco salvó su vida una vez. También, gaélico irlandés fue una parte obligatorio de la educación de mi padre. He estado aprendiendo ucraniano para reconectarme con mi abuela."
 			}
 		}
 	]	
