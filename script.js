@@ -6,14 +6,26 @@ if (lang == "") {
 
 $(document).ready(function() {
 	$.getJSON("bubbles.json", function(json) {
-		for (var i = 0; i < json.bubbles.length; i++) {
-			renderBubble(json.bubbles[i]);
-		}
+		renderBubble(json.bubbles);
 	});
 });
 
-function renderBubble(b) {
-	$("<div class=\"bubble\"><div class=\"img\" style=\"background-image: url(" + b.img + ")\"></div><h" + b.size + " class=\"title\">" + b.title[lang] + "</h" + b.size + "><p class=\"description\">" + b.description[lang] + "</p></div>").appendTo("#content");
+function renderBubbles(b) {
+	//Initialize holders
+	var holders = [];
+	for (var i = 0; i < b.length; i++) {
+		if (holders.indexOf(b[i].size) == -1) {
+			holders.append(b[i].size);
+		}
+	}
+	holders.sort();
+	for (var i = 0; i < b.length; i++) {
+		$("<div id=\"holder" + holders[i] + "\"></div>").appendTo('#content');
+	}
+
+	for (var i = 0; i < b.length; i++) {
+		$("<div class=\"bubble\"><div class=\"img\" style=\"background-image: url(" + b[i].img + ")\"></div><h" + b[i].size + " class=\"title\">" + b[i].title[lang] + "</h" + b[i].size + "><p class=\"description\">" + b[i].description[lang] + "</p></div>").appendTo("#holder" + b[i].size);
+	}
 }
 
 function getParameterByName(name) {
