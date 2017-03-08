@@ -6,7 +6,7 @@ if (lang == "") {
 
 $(document).ready(function() {
 	$.getJSON("bubbles.json", function(json) {
-		renderBubble(json.bubbles);
+		renderBubbles(json.bubbles);
 	});
 });
 
@@ -15,7 +15,7 @@ function renderBubbles(b) {
 	var holders = [];
 	for (var i = 0; i < b.length; i++) {
 		if (holders.indexOf(b[i].size) == -1) {
-			holders.append(b[i].size);
+			holders.push(b[i].size);
 		}
 	}
 	holders.sort();
